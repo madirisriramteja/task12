@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.r1{
+    background: black ;
+    height: 100vh;
+}
+.r2{
+    margin-right:  45rem; ;
+    top: 50%;
+    bottom: 50%;
+    transform: translate(8rem,12rem);
+}
+.r3{
+    top: auto;
+    bottom: auto;
+    transform: translate(40rem,-2rem);
+    margin-right: 38rem;
+}
